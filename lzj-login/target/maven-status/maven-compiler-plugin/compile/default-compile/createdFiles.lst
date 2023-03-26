@@ -1,0 +1,8 @@
+com\xxxx\LoginApplication.class
+com\xxxx\service\impl\LoginServiceImpl.class
+com\xxxx\feign\SendyzmService.class
+com\xxxx\controller\LoginController.class
+com\xxxx\dao\LoginDao.class
+com\xxxx\feign\SendyzmServiceFallbackFactory.class
+com\xxxx\service\LoginService.class
+com\xxxx\feign\SendyzmServiceFallbackFactory$1.class
